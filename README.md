@@ -6,7 +6,8 @@
 
 ## About Me
 
-➤ I'm a 19 year old Software Engineer student with a background in graphic design, music production and video editing. Focused on front-end and back-end development to create user-centered solutions. Most projects are developed with JavaScript language.
+➤ Experience in **JavaScript** and a strong interest in **Game Developing**.  
+I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
 
 ➤ Current Projects:
 - Working on: Finish the Full Stack and Game Developing Roadmaps.
@@ -42,19 +43,12 @@
 
 ---
 
-## Professional Summary
-
-➤ Experience in **JavaScript** and a strong interest in **Game Developing**.  
-I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
-
----
-
 ## Other Skills
 
-- ♫ Music Production (FL Studio & Chiptune)
-- ♘ Graphic Designer (Websites & Vectors)
-- ⌨ Video Editing (Sony Vegas Pro 13)
-- ✑ Concept Art (Sprites, Illustration & Animation)
+- ♫ Music Production (FL Studio, Chiptune)
+- ♘ Graphic Designer (Websites, Vectors)
+- ⌨Video Editing (SVP 13)
+- ✑ Concept Art (Sprites, Illustration, Animation)
 
 ---
 
