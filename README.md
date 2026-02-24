@@ -9,7 +9,7 @@
 ➤ Experience in **JavaScript** and a strong interest in **Game Developing**.  
 I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
 
-➤ ⚙️ Current Projects:
+➤ Current Projects:
 - Working on: Finish the Full Stack and Game Developing Roadmaps.
 - Learning: Database Management (SQL) and Cloud Platforms.
 - Goal: Get professional on the programming world, network with new people.
