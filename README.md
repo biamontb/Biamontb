@@ -4,19 +4,19 @@
 
 ---
 
-## About Me
+## 💭 About Me
 
 ➤ Experience in **JavaScript** and a strong interest in **Game Developing**.  
 I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
 
-➤ Current Projects:
+➤ ⚙️ Current Projects:
 - Working on: Finish the Full Stack and Game Developing Roadmaps.
 - Learning: Database Management (SQL) and Cloud Platforms.
 - Goal: Get professional on the programming world, network with new people.
 
 ---
 
-## Tech Stack
+## ​🌒​ Tech Stack ​
 
 < **Program Languages** >
  Java • JavaScript • HTML • Python • C • Lua • GML • GDScript
@@ -26,7 +26,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## Hard Skills
+## 📝 Hard Skills
 
 - Writing maintainable and organized codes
 - Tracking code changes, debugging tools
@@ -34,7 +34,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## Soft Skills
+## ☕ Soft Skills
 
 - Understanding requirements efficiently to avoid rework
 - Debugging Persistence on system failures
@@ -43,7 +43,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## Other Skills
+## 🎭 Other Skills
 
 - ♫ Music Production (FL Studio, Chiptune)
 - ♘ Graphic Designer (Websites, Vectors)
@@ -52,7 +52,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## Let's Connect
+## 📨 Let's Connect
 
 - Linkedin: [beatrizmontalvanbarreto](https://www.linkedin.com/in/beatrizmontalvanbarreto/)
 - Portfolio: [beatrizmontalvan](https://beatrizmontalvan.my.canva.site/)
