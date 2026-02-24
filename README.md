@@ -1,6 +1,6 @@
 # console.log("Hi, I'm Beatriz");
 
-**Software Engineer | Full Stack Developer | Game Developer**
+**💻 Software Engineer | ☕ Full Stack Developer | 👾 Game Developer**
 
 ---
 
