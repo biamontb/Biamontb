@@ -47,16 +47,16 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 - ♫ Music Production (FL Studio, Chiptune)
 - ♘ Graphic Designer (Websites, Vectors)
-- ⌨Video Editing (SVP 13)
+- ⌨ Video Editing (SVP 13)
 - ✑ Concept Art (Sprites, Illustration, Animation)
 
 ---
 
 ## 📨 Let's Connect
 
-- Linkedin: [beatrizmontalvanbarreto](https://www.linkedin.com/in/beatrizmontalvanbarreto/)
-- Portfolio: [beatrizmontalvan](https://beatrizmontalvan.my.canva.site/)
-- Email: [beatrizmb0000](beatrizmb0000@gmail.com)
-- Instagram: [bia.montb](https://www.instagram.com/bia.montb/)
-- Reddit: [bia.montb](https://www.reddit.com/user/Specialist_Gear_6168/)
-- Discord: [bia.montb](https://discord.com/users/960014847033102416)
+- 💼 Linkedin: [beatrizmontalvanbarreto](https://www.linkedin.com/in/beatrizmontalvanbarreto/)
+- 📎 Portfolio: [beatrizmontalvan](https://beatrizmontalvan.my.canva.site/)
+- 📨 Email: [beatrizmb0000](beatrizmb0000@gmail.com)
+- 📷 Instagram: [bia.montb](https://www.instagram.com/bia.montb/)
+- 💻 Reddit: [bia.montb](https://www.reddit.com/user/Specialist_Gear_6168/)
+- 🎧 Discord: [bia.montb](https://discord.com/users/960014847033102416)
