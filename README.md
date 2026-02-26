@@ -58,5 +58,5 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - 📎 Portfolio: [beatrizmontalvan](https://beatrizmontalvan.my.canva.site/)
 - 📨 Email: [beatrizmb0000](beatrizmb0000@gmail.com)
 - 📷 Instagram: [bia.montb](https://www.instagram.com/bia.montb/)
-- 💻 Reddit: [bia.montb](https://www.reddit.com/user/Specialist_Gear_6168/)
+- 💻 Reddit: [bia.montb](https://www.reddit.com/user/biamontb/)
 - 🎧 Discord: [bia.montb](https://discord.com/users/960014847033102416)
