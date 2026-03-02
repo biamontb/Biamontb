@@ -8,25 +8,25 @@
 ![GitHub followers](https://img.shields.io/github/followers/biamontb?style=social&logo=github&color=black) | 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
 
-## 💭 About Me
+
+## 💭 **ABOUT ME**
 
 ➤ Experience in ![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=javascript&logoColor=white&logoSize=4&label=JavaScript&labelColor=red&color=red) and a strong interest in **Game Developing**.
 I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
 
-➤ Current Projects:
-- Working on: Finish the Full Stack and Game Developing Roadmaps.
-- Learning: Database Management (SQL) and Cloud Platforms.
-- Goal: Get professional on the programming world, network with new people.
+➤ **CURRENT PROJECTS**
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Working%20On%3A&labelColor=black&color=black) Finish the Full Stack and Game Developing Roadmaps.
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Learning%3A&labelColor=black&color=black) Database Management (SQL) and Cloud Platforms.
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Goal%3A&labelColor=black&color=black) Get professional on the programming world, network with new people.
 
-➤ Likes
-- Favorite Artists: Slipknot, C418, fem.love
-- Favorite Games: Intravenous, Minecraft, Osu
+➤ **LIKES**
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=spotify&logoColor=white&logoSize=4&label=Favorite%20Artists%3A&labelColor=black&color=black) Slipknot, C418, fem.love
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=steam&logoColor=white&logoSize=4&label=Favorite%20Games%3A&labelColor=black&color=black) Intravenous, Ultrakill, Minecraft, Osu
 
 ---
 
 ## ​🌒​ Tech Stack 
 ​
-<p align="center">
 < **Program Languages** >
 ![Static Badge](https://img.shields.io/badge/-java?style=for-the-badge&logo=java&logoColor=white&logoSize=4&label=Java&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=javascript&logoColor=white&logoSize=4&label=JavaScript&labelColor=black&color=black)
@@ -42,7 +42,6 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 ![Static Badge](https://img.shields.io/badge/-Linux?style=for-the-badge&logo=linux&logoColor=white&logoSize=4&label=Linux&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
-</p>
 
 ---
 
@@ -81,9 +80,12 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - 💻 Reddit: ![Reddit](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fbiamontb%2F&style=for-the-badge&logo=reddit&logoColor=white&logoSize=4&label=Reddit&labelColor=black&color=black)
 - 🎧 Discord: ![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Fusers%2F960014847033102416&style=for-the-badge&logo=Discord&logoColor=white&logoSize=4&label=Discord&labelColor=black&color=black)
 
-
----
+<p align="center">
+   𓅓
+</p>
 
 ---
 
 ![Banner](https://images3.alphacoders.com/709/thumb-1920-709280.jpg)
+
+---
