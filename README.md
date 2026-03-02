@@ -16,6 +16,10 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - Learning: Database Management (SQL) and Cloud Platforms.
 - Goal: Get professional on the programming world, network with new people.
 
+➤ Likes
+- Favorite Artists: Slipknot, C418, fem.love
+- Favorite Games: Intravenous, Minecraft, Osu
+
 ---
 
 ## ​🌒​ Tech Stack ​
