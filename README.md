@@ -9,10 +9,12 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
 
 
-## 💭 **ABOUT ME**
+## 💭 **ABOUT ME** 💭
 
-➤ Experience in ![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=javascript&logoColor=white&logoSize=4&label=JavaScript&labelColor=red&color=red) and a strong interest in **Game Developing**.
-I’ve worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
+➤ **Who's Beatriz?**
+- Experience in ![Static Badge](https://img.shields.io/badge/-a?style=flat-square&logo=javascript&logoSize=4&label=JavaScript&labelColor=black&color=black) and a strong interest in **Game Developing**.
+- Worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
+- Has background knowlage in Graphic Design, Music Production, Video Editing & StoryTelling.
 
 ➤ **CURRENT PROJECTS**
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Working%20On%3A&labelColor=black&color=black) Finish the Full Stack and Game Developing Roadmaps.
@@ -20,12 +22,12 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Goal%3A&labelColor=black&color=black) Get professional on the programming world, network with new people.
 
 ➤ **LIKES**
-- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=spotify&logoColor=white&logoSize=4&label=Favorite%20Artists%3A&labelColor=black&color=black) Slipknot, C418, fem.love
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=spotify&logoColor=white&logoSize=4&label=Favorite%20Artists%3A&labelColor=black&color=black) Slipknot, C418, fem.love, gingus
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=steam&logoColor=white&logoSize=4&label=Favorite%20Games%3A&labelColor=black&color=black) Intravenous, Ultrakill, Minecraft, Osu
 
 ---
 
-## ​🌒​ Tech Stack 
+## ​🌒​ **SKILLS & TOOLS** 🌒​
 ​
 < **Program Languages** >
 ![Static Badge](https://img.shields.io/badge/-java?style=for-the-badge&logo=java&logoColor=white&logoSize=4&label=Java&labelColor=black&color=black)
@@ -45,7 +47,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## 📝 Hard Skills
+## 📝 **HARD SKILLS** 📝
 
 - Writing maintainable and organized codes
 - Tracking code changes, debugging tools
@@ -53,7 +55,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## ☕ Soft Skills
+## ☕ **SOFT SKILLS** ☕
 
 - Understanding requirements efficiently to avoid rework
 - Debugging Persistence on system failures
@@ -62,7 +64,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## 🎭 Other Skills
+## 🎭 **OTHER SKILLS** 🎭
 
 - ♫ Music Production (FL Studio, Chiptune)
 - ♘ Graphic Designer (Websites, Vectors)
@@ -70,8 +72,10 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - ✑ Concept Art (Sprites, Illustration, Animation)
 
 ---
+![Banner1](Banner_001)
+---
 
-## 📨 Let's Connect
+## 📨 **LET'S CONNECT** 📨
 
 - 📨 Email: beatrizmb0000@gmail.com
 - 💼 Linkedin: ![Linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbiamontb%2F&style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=4&label=Linkedin&labelColor=black&color=black)
@@ -86,6 +90,6 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-![Banner](https://images3.alphacoders.com/709/thumb-1920-709280.jpg)
+![Footer](https://images3.alphacoders.com/709/thumb-1920-709280.jpg)
 
 ---
