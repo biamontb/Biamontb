@@ -24,8 +24,9 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-## ​🌒​ Tech Stack ​
-
+## ​🌒​ Tech Stack 
+​
+<p align="center">
 < **Program Languages** >
 ![Static Badge](https://img.shields.io/badge/-java?style=for-the-badge&logo=java&logoColor=white&logoSize=4&label=Java&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=javascript&logoColor=white&logoSize=4&label=JavaScript&labelColor=black&color=black)
@@ -41,6 +42,7 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 ![Static Badge](https://img.shields.io/badge/-Linux?style=for-the-badge&logo=linux&logoColor=white&logoSize=4&label=Linux&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
+</p>
 
 ---
 
