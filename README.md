@@ -1,4 +1,4 @@
-# console.log("Hi, I'm Beatriz");
+# console.log("Hello! I'm Beatriz");
 
 **💻 Software Engineer | ☕ Full Stack Developer | 👾 Game Developer**
 
