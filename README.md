@@ -3,7 +3,7 @@
 **💻 Software Engineer | ☕ Full Stack Developer | 👾 Game Developer**
 
 ---
-!(Header)[]
+![Header](Github_Header.png)
 ---
 
 ## 💭 About Me
@@ -53,8 +53,6 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 - ✑ Concept Art (Sprites, Illustration, Animation)
 
 ---
-![banner](https://images2.alphacoders.com/849/thumb-1920-849328.png)
----
 
 ## 📨 Let's Connect
 
@@ -67,6 +65,6 @@ I’ve worked on projects involving **Full Applications** and enjoy building pro
 
 ---
 
-![image](https://raw.githubusercontent.com/Snoopy1866/Snoopy1866/b1b1df7c6b509a0c1ab8ef7923ed1f4c67f5a603/profile-contrib-snake/github-snake.svg)
+---
 
 ![banner](https://images3.alphacoders.com/709/thumb-1920-709280.jpg)
