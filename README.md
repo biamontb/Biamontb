@@ -11,7 +11,7 @@
 
 ## 💭 **ABOUT ME** 💭
 
-➤ **Who's Beatriz?**
+➤ **WHO'S BEATRIZ?**
 - Experience in ![Static Badge](https://img.shields.io/badge/-a?style=flat-square&logo=javascript&logoSize=4&label=JavaScript&labelColor=black&color=black) and a strong interest in **Game Developing**.
 - Worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
 - Has background knowlage in Graphic Design, Music Production, Video Editing & StoryTelling.
@@ -22,7 +22,7 @@
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Goal%3A&labelColor=black&color=black) Get professional on the programming world, network with new people.
 
 ➤ **LIKES**
-- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=spotify&logoColor=white&logoSize=4&label=Favorite%20Artists%3A&labelColor=black&color=black) Slipknot, C418, fem.love, gingus
+- ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=spotify&logoColor=white&logoSize=4&label=Favorite%20Artists%3A&labelColor=black&color=black) Slipknot, C418, Skrillex, fem.love, gingus
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=steam&logoColor=white&logoSize=4&label=Favorite%20Games%3A&labelColor=black&color=black) Intravenous, Ultrakill, Minecraft, Osu
 
 ---
@@ -71,8 +71,6 @@
 - ⌨ Video Editing (SVP 13)
 - ✑ Concept Art (Sprites, Illustration, Animation)
 
----
-![Banner1](Banner_001)
 ---
 
 ## 📨 **LET'S CONNECT** 📨
