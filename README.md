@@ -1,10 +1,8 @@
-![snake](https://platane.github.io/snk/)
-
 ---
 ![Header](Github_Header.png)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/biamontb?style=social&logo=github&color=black) | 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
