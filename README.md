@@ -1,20 +1,14 @@
-# console.log("Hello! I'm Beatriz");
-
-**💻 Software Engineer | ☕ Full Stack Developer | 👾 Game Developer**
-
 ---
 ![Header](Github_Header.png)
 ---
 ![GitHub followers](https://img.shields.io/github/followers/biamontb?style=social&logo=github&color=black) | 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 💭 **ABOUT ME** 💭
 
-➤ **WHO'S BEATRIZ?**
-- Experience in ![Static Badge](https://img.shields.io/badge/-a?style=flat-square&logo=javascript&logoSize=4&label=JavaScript&labelColor=black&color=black) and a strong interest in **Game Developing**.
-- Worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused.
-- Has background knowlage in Graphic Design, Music Production, Video Editing & StoryTelling.
+➤ Experience in ![Static Badge](https://img.shields.io/badge/-a?style=flat-square&logo=javascript&logoSize=4&label=JavaScript&labelColor=black&color=black) and a strong interest in **Game Developing**. Worked on projects involving **Full Applications** and enjoy building products that are both technically solid and user-focused. Has background knowlage in Graphic Design, Music Production, Video Editing & StoryTelling.
 
 ➤ **CURRENT PROJECTS**
 - ![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logoColor=white&logoSize=4&label=Working%20On%3A&labelColor=black&color=black) Finish the Full Stack and Game Developing Roadmaps.
@@ -27,9 +21,9 @@
 
 ---
 
-## ​🌒​ **SKILLS & TOOLS** 🌒​
+## ​⚙️​ **TOOLS** ⚙️​​​
 ​
-< **Program Languages** >
+< **PROGRAM LANGUAGES** >
 ![Static Badge](https://img.shields.io/badge/-java?style=for-the-badge&logo=java&logoColor=white&logoSize=4&label=Java&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=javascript&logoColor=white&logoSize=4&label=JavaScript&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-html?style=for-the-badge&logo=html&logoColor=white&logoSize=4&label=HTML&labelColor=black&color=black)
@@ -39,32 +33,36 @@
 ![Static Badge](https://img.shields.io/badge/-gml?style=for-the-badge&logo=gml&logoColor=white&logoSize=4&label=GML&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-GDScript?style=for-the-badge&logo=GDScript&logoColor=white&logoSize=4&label=GDScript&labelColor=black&color=black)
 
-< **Frameworks & Tools** >
+< **FRAMEWORKS & TOOLS** >
 ![Static Badge](https://img.shields.io/badge/-git?style=for-the-badge&logo=git&logoColor=white&logoSize=4&label=Git&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-Linux?style=for-the-badge&logo=linux&logoColor=white&logoSize=4&label=Linux&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-node?style=for-the-badge&logo=node&logoColor=white&logoSize=4&label=Node.js&labelColor=black&color=black)
 
 ---
+![Banner](Github_Banner.png)
+---
 
-## 📝 **HARD SKILLS** 📝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&lines=Soft+%26+Hard+Skills)](https://git.io/typing-svg)
 
-- Writing maintainable and organized codes
-- Tracking code changes, debugging tools
-- Designing technical concepts clearly
+## **HARD SKILLS**
+
+- 📝 Writing maintainable and organized codes
+- 📝 Tracking code changes, debugging tools
+- 📝 Designing technical concepts clearly
 
 ---
 
-## ☕ **SOFT SKILLS** ☕
+## **SOFT SKILLS**
 
-- Understanding requirements efficiently to avoid rework
-- Debugging Persistence on system failures
-- Analytical Thinking on complex problems
-- Clear Documentation Writing
+- ☕ Understanding requirements efficiently to avoid rework
+- ☕ Debugging Persistence on system failures
+- ☕ Analytical Thinking on complex problems
+- ☕ Clear Documentation Writing
 
 ---
 
-## 🎭 **OTHER SKILLS** 🎭
+## **OTHER SKILLS**
 
 - ♫ Music Production (FL Studio, Chiptune)
 - ♘ Graphic Designer (Websites, Vectors)
@@ -73,20 +71,9 @@
 
 ---
 
-## 📨 **LET'S CONNECT** 📨
+## 📨 **LET'S CONNECT!** 📨
 
-- 📨 Email: beatrizmb0000@gmail.com
-- 💼 Linkedin: ![Linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbiamontb%2F&style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=4&label=Linkedin&labelColor=black&color=black)
-- 📎 Portfolio: ![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2Fbeatrizmontalvan.my.canva.site%2F&style=for-the-badge&label=Portfolio&labelColor=black&color=black)
-- 📷 Instagram: ![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fbia.montb%2F&style=for-the-badge&logo=Instagram&logoColor=white&logoSize=4&label=Instagram&labelColor=black&color=black)
-- 💻 Reddit: ![Reddit](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fbiamontb%2F&style=for-the-badge&logo=reddit&logoColor=white&logoSize=4&label=Reddit&labelColor=black&color=black)
-- 🎧 Discord: ![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Fusers%2F960014847033102416&style=for-the-badge&logo=Discord&logoColor=white&logoSize=4&label=Discord&labelColor=black&color=black)
-
-<p align="center">
-   𓅓
-</p>
-
----
+![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fbia.montb%2F&style=for-the-badge&logo=Instagram&logoColor=white&logoSize=4&label=Instagram&labelColor=black&color=black) ![Linkedin](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbiamontb%2F&style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=4&label=Linkedin&labelColor=black&color=black) ![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2Fbeatrizmontalvan.my.canva.site%2F&style=for-the-badge&label=Portfolio&labelColor=black&color=black) ![Discord](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Fusers%2F960014847033102416&style=for-the-badge&logo=Discord&logoColor=white&logoSize=4&label=Discord&labelColor=black&color=black) ![Reddit](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fbiamontb%2F&style=for-the-badge&logo=reddit&logoColor=white&logoSize=4&label=Reddit&labelColor=black&color=black)
 
 ![Footer](https://images3.alphacoders.com/709/thumb-1920-709280.jpg)
 
