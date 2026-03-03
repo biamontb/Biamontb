@@ -2,7 +2,7 @@
 ![Header](Github_Header.png)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/biamontb?style=social&logo=github&color=black) | 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
@@ -46,7 +46,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&lines=Soft+%26+Hard+Skills)](https://git.io/typing-svg)
 
-**HARD SKILLS**
+## **HARD SKILLS**
 
 - 📝 Writing maintainable and organized codes
 - 📝 Tracking code changes, debugging tools
