@@ -2,7 +2,7 @@
 ![Header](Github_Header.png)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biamontb&theme=highcontrast)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/biamontb?style=social&logo=github&color=black) | 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/biamontb)
@@ -31,8 +31,6 @@
 ![Static Badge](https://img.shields.io/badge/-python?style=for-the-badge&logo=python&logoColor=white&logoSize=4&label=Python&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-c?style=for-the-badge&logo=c&logoColor=white&logoSize=4&label=C&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/-lua?style=for-the-badge&logo=lua&logoColor=white&logoSize=4&label=Lua&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/-gml?style=for-the-badge&logo=gml&logoColor=white&logoSize=4&label=GML&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/-GDScript?style=for-the-badge&logo=GDScript&logoColor=white&logoSize=4&label=GDScript&labelColor=black&color=black)
 
 < **FRAMEWORKS & TOOLS** >
 ![Static Badge](https://img.shields.io/badge/-git?style=for-the-badge&logo=git&logoColor=white&logoSize=4&label=Git&labelColor=black&color=black)
